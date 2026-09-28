@@ -1,8 +1,8 @@
 # Restaurant App MVP (React Native + Expo)
 
-Assignment 1, Fall 2026. Frontend only: no backend, no external API, no state management library.
+Assignment 1, MAD.
 
-**Name:** _your name_  **Roll no:** _your roll number_
+**Name:** Huzaifa Masood **Roll no:**9331
 
 ## Installation
 1. Install Node.js (LTS, v20 or newer) and npm.
