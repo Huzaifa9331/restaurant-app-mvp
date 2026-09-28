@@ -2,7 +2,7 @@
 
 Assignment 1, MAD.
 
-Name: Huzaifa Masood || Roll no: 9331
+Name: Huzaifa Masood || Reg no: 9331
 
 ## Installation
 1. Install Node.js (LTS, v20 or newer) and npm.
